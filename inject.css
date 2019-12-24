@@ -1,0 +1,9 @@
+/**
+ * inject.css
+ * Contains default styles to inject into page.
+ */
+#header,
+#top,
+.more {
+	display: none;
+}
