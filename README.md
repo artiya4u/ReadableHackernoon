@@ -1,6 +1,6 @@
 # Readable Hackernoon
 
-Readable Hackernoon is a [Chrome extension](https://chrome.google.com/webstore/detail/kljjfejkagofbgklifblndjelgabcmig) to remove the big colorful fixed header of the story on Hackernoon for more readable space.
+Readable Hackernoon is a [Chrome extension](https://chrome.google.com/webstore/detail/bbaopcbihfmndeedafhcafpojpibkgic) to remove the big colorful fixed header of the story on Hackernoon for more readable space.
 
 ### Preview
 
