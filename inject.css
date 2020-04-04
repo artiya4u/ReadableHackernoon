@@ -2,7 +2,6 @@
  * inject.css
  * Contains default styles to inject into page.
  */
-#header,
-#top {
+[class*="Header__"]  {
     display: none;
 }
