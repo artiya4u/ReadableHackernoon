@@ -7,7 +7,6 @@
     "128": "icon.png"
   },
   "permissions": [
-    "storage",
     "https://hackernoon.com/",
     "https://www.hackernoon.com/"
   ],
