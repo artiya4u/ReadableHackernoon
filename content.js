@@ -1,7 +1,6 @@
 let makeReadable = function () {
-  document.head.insertAdjacentHTML(
-    'beforeend',
-    '<link rel="stylesheet" type="text/css" href="' + chrome.runtime.getURL("inject.css") + '">');
+  let header = document.querySelector('header');
+  header.parentNode.removeChild(header);
 };
 
 makeReadable();
