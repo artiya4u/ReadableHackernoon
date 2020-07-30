@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Readable Hackernoon",
   "description": "Remove the big colorful header from Hackernoon for more readable",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icons": {
     "128": "icon.png"
   },
@@ -13,8 +13,7 @@
   "content_scripts": [
     {
       "matches": ["https://hackernoon.com/*", "https://www.hackernoon.com/*"],
-      "js": ["content.js"],
-      "exclude_matches": ["https://hackernoon.com/", "https://www.hackernoon.com/"]
+      "js": ["content.js"]
     }
   ],
   "web_accessible_resources": [
